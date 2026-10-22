@@ -1,0 +1,6 @@
+[submodule "phantom"]
+	path = phantom
+	url = git@github.com:triare-in/phantom
+[submodule "WebApp"]
+	path = WebApp
+	url = git@github.com:triare-in/WebApp
